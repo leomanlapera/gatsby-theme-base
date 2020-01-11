@@ -1,6 +1,6 @@
 {
   "name": "@leomanlapera/gatsby-theme-base",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A gatsby base theme for website",
   "main": "index.js",
   "author": "June Leoman Lapera @leomanlapera",
@@ -25,5 +25,10 @@
     "gatsby",
     "gatsby-plugin",
     "gatsby-theme"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leomanlapera/gatsby-theme-base"
+  },
+  "homepage": "https://github.com/leomanlapera/gatsby-theme-base/blob/master/README.md"
 }
