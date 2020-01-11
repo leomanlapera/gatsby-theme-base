@@ -1,0 +1,29 @@
+{
+  "name": "@leomanlapera/gatsby-theme-base",
+  "version": "1.0.2",
+  "description": "A gatsby base theme for website",
+  "main": "index.js",
+  "author": "June Leoman Lapera @leomanlapera",
+  "license": "MIT",
+  "devDependencies": {
+    "gatsby": "^2.18.21",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.18.21",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.27",
+    "@mdx-js/react": "^1.5.3",
+    "gatsby-plugin-theme-ui": "^0.2.53",
+    "theme-ui": "^0.2.52"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-theme"
+  ]
+}
