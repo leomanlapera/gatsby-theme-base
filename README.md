@@ -24,3 +24,17 @@ That's it, you can now run your gatsby site using
 ```shell
 yarn gatsby develop
 ```
+
+## Extending the theme
+
+```javascript
+// shadow src/gatsby-theme-base/index.js
+import base from "@leomanlapera/gatsby-theme-base/src/gatsby-theme-plugin-ui";
+
+export default {
+  ...base,
+  colors: {
+    text: "tomato"
+  }
+};
+```
